@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-matrix.svg" alt="Chuva de código verde com um hacker de moletom andando" width="100%">
+  <img src="assets/banner-matrix.svg" alt="Chuva de código verde com um pato andando" width="100%">
 </p>
 
 # Maurício dos Anjos Souza
