@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner-matrix.svg" alt="Maurício dos Anjos Souza — software developer" width="100%">
+  <img src="assets/banner-matrix.svg" alt="Chuva de código verde com um hacker de moletom andando" width="100%">
 </p>
+
+# Maurício dos Anjos Souza
 
 Desenvolvedor de software em Curitiba (PR) e estudante de Engenharia da Computação na PUCPR (conclusão em 2027).
 Passei 2 anos como desenvolvedor na Faurecia, criando aplicações web e back-end, robôs de automação e integrações com o SAP. Gosto de transformar trabalho manual em sistema e de entender como as coisas funcionam por baixo, do front-end até o compilador.
